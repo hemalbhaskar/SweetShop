@@ -1,5 +1,4 @@
 # SweetShop
-# SweetShop
 # 🍬 Sweet Shop Management System (Python CLI App)
 
 This is a simple, clean, and interactive **Sweet Shop Management System** built using **Python**.  
