@@ -33,6 +33,7 @@ SweetShop/
 
 ---
  Tech Stack
+ 
 🐍 Python 3.x
 
 📟 Terminal / Command-line
