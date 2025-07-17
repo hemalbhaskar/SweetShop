@@ -32,7 +32,14 @@ SweetShop/
 └── README.md # Project documentation
 
 ---
+ Tech Stack
+🐍 Python 3.x
 
+📟 Terminal / Command-line
+
+VS Code (recommended IDE)
+
+---
 ## ▶️ How to Run
 
 1. **Clone this repo** or download ZIP  
